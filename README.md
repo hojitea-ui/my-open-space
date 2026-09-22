@@ -1,7 +1,7 @@
 # 우리 집 거실
 
 ## 주소
-https://hojitea-ui.github.io/my-open-space/
+## 🔗 https://hojitea-ui.github.io/my-open-space/
 
 ## 어디를 골랐나
 - 넓고 탁 트인 거실, 가구는 모두 구석 쪽으로 빠져 있음
@@ -21,7 +21,7 @@ https://hojitea-ui.github.io/my-open-space/
 | .spz | 23.7 MB | 3,288,571 | 7.21 |
 
 ## 폰에서 첫 화면까지
-- 내 폰 O초, 남의 폰 O초
+- 내 폰 3초, 남의 폰 5초
 
 ## 안 나온 자리
 - 거실 중앙 아래쪽에 검은 쐐기 모양 빈 공간이 있음
